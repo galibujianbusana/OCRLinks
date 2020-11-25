@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\gradle\gradle-4.4\caches\modules-2\files-2.1\com.android.support\support-annotations\25.1.1\b59b6ee8d6ecc03e672d253800430343493a6ed8\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_f28aba974694c1811e13406bc286178937cd5de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\.android\build-cache\6aa573d13c9a006535b1253fccda53995f0a7c0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_4fad3fa77c5c12cfa95ff5ab99f51693ff587d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\.android\build-cache\fd95d8cdadb246f21a13d44e6606a26582b1ad8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_d4442a633f437f11556dd9c53957ec9c38b1afb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\ocr_ui\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c47e582713d4886b4c3d18ba4a930494150522a2">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_3d11ab12cd37984ee423e5a181ee7fd3e4132570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\ocr_ui\build\intermediates\bundles\default\libs\license.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eca3cb381d01815bb3cec10d215f5d6ba1b2308d">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\license_513fe8ec3c169054910b44a7b3e564c8171ef418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\.android\build-cache\8a0f7c2c2d2458394e9f8799e0ba570e10ccb9bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_608df9b97717ee3b52bc81966842bf7c391b614e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\libs\ocr-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c27414b0aaebf138ad149373556fbac40b85a633">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\ocr-sdk_3342bf22b1a05349a6023062213d15fe64f019f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\.android\build-cache\44317a92681ffd478c47babca44d63e8cdb35893\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_c00b046d8c3ee4ac544b745b76316fcc84242286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\.android\build-cache\a14ece667936a3d773ad2d4be290662d6352a3c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_534b5b57147e23b05479132a9ae62ac26f9f6b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\.android\build-cache\f175f9b045e8821af634daee198810923cfb7a3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_daad4594ceef02e68b22a3609c36301dabba5ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\.android\build-cache\4e2fd6b766ef452d7a81fb18b7888e86ffacc685\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_7f452670558737dbd46402eed0219025347b454f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\.android\build-cache\3a7313db844adc624678a4573c8db51e0a749f5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_a70301050375f7fa418db8910ec0cb81694d684d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xiwang.guo\.android\build-cache\5111a4b3f9d1765322fe04bcf2d9c36db869f5b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\xiwang.guo\Desktop\aip-ocr-android-sdk-1.4.4\aip-ocr-android-sdk-1.4.4\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_f051e00fbf2d47954c5392efd51c7a86554018d7.jar" />
+    </item>
+
+</items>
